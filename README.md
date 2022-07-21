@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YourFBIAgent
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning the basics of HTML,CSS and Javascript
+- 🌱 I’m currently learning the basics of HTML,CSS,Javascript and Python
 
 <!---
 YourFBIAgent/YourFBIAgent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
