@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning concepts related to Front End Development as well as other fields
 - :goal_net: My goal is to be able to proficiently work in VueJS and ReactJS by the end of 2022
 
-### Languages and Tools I've Worked With:
+### Languages, Frameworks, Libraries and Tools I've Worked With:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
