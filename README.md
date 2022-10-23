@@ -1,13 +1,27 @@
 # 👋 Hi, I’m @YourFBIAgent
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning the basics of HTML,CSS,Javascript and Python
 
+- 👀 I’m studying to become a Full Stack Developer
+- 🌱 I’m currently learning concepts related to Front End Development as well as other fields
+- :goal_net: My goal is to be able to proficiently work in VueJS and ReactJS by the end of 2022
+
+### Languages and Tools I've Worked With:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+ style="padding-right:10px;" />
+          
+### GitHub Stats
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=YourFBIAgent&theme=tokyonight'/>
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent&layout=compact'/>
-
-<img align='left' alt='Javascript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-
 
 <!---
 YourFBIAgent/YourFBIAgent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
