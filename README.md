@@ -17,7 +17,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
  style="padding-right:10px;" />
-          
+
+---
+
 ### GitHub Stats
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=YourFBIAgent&theme=tokyonight'/>
 
