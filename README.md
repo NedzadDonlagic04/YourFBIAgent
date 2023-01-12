@@ -23,9 +23,9 @@
 <br>
 
 ### GitHub Stats
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=YourFBIAgent&theme=tokyonight'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent'/>
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent&layout=compact'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent'/>
 
 <!---
 YourFBIAgent/YourFBIAgent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
