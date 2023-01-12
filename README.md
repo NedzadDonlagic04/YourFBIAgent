@@ -23,7 +23,7 @@
 <br>
 
 ### GitHub Stats
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=YourFBIAgent'/>
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YourFBIAgent'/>
 
